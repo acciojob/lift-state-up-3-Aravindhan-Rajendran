@@ -5,7 +5,9 @@ import './../styles/App.css';
 const App = () => {
   return (
     <div>
-        {/* Do not remove the main div */}
+       <h1>Parent Component</h1>
+      <div></div>
+    <p>Selected Option:</p>
     </div>
   )
 }
